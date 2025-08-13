@@ -2,8 +2,8 @@
 
 Bonjour ! Je suis Hélias, et voici mes deux textes philosophiques.
 
-- [Le Procès de l’Humain](./le-procès.md)
-- [L’Éveil](./l'éveil.md)
+- [Le Procès de l’Humain](./Le-procès.md)
+- [L’Éveil](./L'eveil.md)
 
 Thèmes : IA, conscience, reconnaissance mutuelle.
 
